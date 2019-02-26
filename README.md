@@ -24,6 +24,6 @@ See [pires/kubernetes-elasticsearch-cluster](https://github.com/pires/kubernetes
 
 This image can be configured by means of environment variables, that one can set on a `Deployment`.
 
-Besides the [inherited ones](https://github.com/pires/docker-elasticsearch#environment-variables), this container image provides the following:
+Besides the [inherited ones](https://github.com/CommerceExperts/docker-elasticsearch#environment-variables), this container image provides the following:
 
 * [DISCOVERY_SERVICE](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-discovery-zen.html#unicast) - the service to be queried for through DNS (default = `elasticsearch-discovery`).
