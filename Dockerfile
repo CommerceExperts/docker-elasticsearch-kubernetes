@@ -1,5 +1,5 @@
 
-FROM commerceexperts/docker-elasticsearch:6.6.0
+FROM commerceexperts/docker-elasticsearch:6.6.1
 LABEL maintainer="gabriel.bauer@commerce-experts.com"
 LABEL author="pjpires@gmail.com, gabriel.bauer@commerce-experts.com"
 
