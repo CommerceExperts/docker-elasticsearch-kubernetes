@@ -6,13 +6,13 @@
 
 Ready to use, lean Elasticsearch Docker image ready for using within a Kubernetes cluster.
 
-[Docker Repository on DockerHub](https://cloud.docker.com/repository/registry-1.docker.io/commerceexperts/docker-elasticsearch-kubernetes)
+[Docker Repository on DockerHub](https://hub.docker.com/r/commerceexperts/docker-elasticsearch-kubernetes)
 
 ## Current software
 
 * Alpine Linux 3.9
 * IcedTea JRE 8u191
-* Elasticsearch 6.6.0
+* Elasticsearch 6.6.1
 
 **Note:** `x-pack-ml` module is forcibly disabled as it's not supported on Alpine Linux.
 
